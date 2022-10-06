@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MechiScattini
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Java and Ruby
 - 📫 How to reach me mechiscatt@gmail.com
 
 <!---
