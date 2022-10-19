@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MechiScattini
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java and Ruby
+- 👀 I’m interested in web development and cibersecurity
+- 🌱 I’m currently learning Java with SpringBoot and Ruby with Ruby on Rails
 - 📫 How to reach me mechiscatt@gmail.com
 
 <!---
